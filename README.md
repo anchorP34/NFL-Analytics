@@ -4,6 +4,7 @@ Projects regarding the NFL
 # Don't Show Your Stupidity By Wasting A Timeout
 I wrote an article about how teams make a crucial mistake when calling a timeout to keep a posession alive rather than taking a 5 yard delay of game penalty. 
 Link to aritcle: 
+
 Link to data on Kaggle: https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016
 
 # First Down Analysis.ipynb
